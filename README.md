@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+
 # ingredient-recipe-app
+
 =======
+
 <div align="center">
   <p>
     <a href="https://www.ultralytics.com/blog/all-you-need-to-know-about-ultralytics-yolo11-and-its-applications" target="_blank">
